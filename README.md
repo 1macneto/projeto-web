@@ -1,2 +1,2 @@
-Primeiro projeto feito com os conhecimentos do curso Javascript Fullstack,
-utilizando Javascript, CSS e HTML.
+Projeto feito com conhecimentos do curso Javascript Fullstack, usando
+Javascript, CSS e HTML
